@@ -1,0 +1,44 @@
+.container{
+    max-width: 100%;
+    width: 75%;
+    margin: 0 auto;
+}
+body{
+    background-color: #CD5D5D;
+}
+h1{
+    font-size: 64px;
+    color: white;
+}
+h2{
+    text-align: center;
+}
+p{
+    padding: 10px;
+}
+span{
+    color: yellow;
+}
+.ul{
+    display: flex;
+    gap: 92px;
+    list-style: none;
+}
+.ull{
+    display: flex;
+}
+.ota{
+    display: flex;
+    gap: 100px;
+}
+.bola{
+    width: 300px;
+    height: 320px;
+    background-color: black;
+    color: white;
+}
+.otaa{
+    display: flex;
+    gap: 100px;   
+    margin-top: 101px;
+}
